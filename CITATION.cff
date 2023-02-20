@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code, please consider to cite it as below."
+authors:
+  - family-names: Kunczik
+    given-names: Janosch
+    orcid: https://orcid.org/0000-0002-9399-706X
+title: "RespiratoryPatternDBCreator"
+version: 1.0.0
+date-released: 2023-02-20
+url: "https://github.com/jkunczik/RespiratoryPatternDBCreator"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Kunczik
+    given-names: Janosch
+    orcid: https://orcid.org/0000-0002-9399-706X
+  - family-names: Hubbermann
+    given-names: Kerstin
+  - family-names: Mösch
+    given-names: Lucas
+    orcid: https://orcid.org/0000-0002-0041-2879
+  - family-names: Follmann
+    given-names: Andreas
+    orcid: https://orcid.org/0000-0001-6817-2472
+  - family-names: Czaplik
+    given-names: Michael
+    orcid: https://orcid.org/0000-0002-7118-7728
+  - family-names: Pereira
+    given-names: Carina
+    orcid: https://orcid.org/0000-0003-1788-4562
+  doi: "10.3390/s22228854"
+  journal: "Sensors"
+  month: 11
+  start: 8854
+  title: "Breathing Pattern Monitoring by Using Remote Sensors"
+  issue: 22
+  volume: 22
+  year: 2022
